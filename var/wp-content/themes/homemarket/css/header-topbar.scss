@@ -1,0 +1,75 @@
+#top-header {
+    padding: 8px 0 3px;
+}
+#top-header {
+	.currency-picker {
+		position: relative;
+		text-align: left;
+	    float: right;
+	    margin-top: 3px;
+	    margin-left: 15px;
+	    font-size: 13px;
+	    outline: none;
+	    font-weight: 700;
+	    line-height: 12px;
+
+	    .wcml_selected_currency {
+	    	display: block;
+	    	margin-bottom: 5px;
+
+	    	&:after {
+	    		content: "\f0d7";
+			    font: 12px 'FontAwesome';
+			    float: right;
+			    margin-left: 5px;
+			    line-height: 12px;
+	    	}
+	    }
+
+	    ul {
+	    	position: absolute;
+	    	text-align: center;
+	    	background: #fff;
+	    	border: 1px solid #848484;
+	    	min-width: 40px;
+	    	z-index: 10;
+	    	transition: all .3s;
+	    	opacity: 0;
+	    	transform: scale(1, 0);
+	    	transform-origin: top;
+
+	    	li {
+	    		line-height: 20px;
+	    		border-bottom: 1px dotted #848484;
+	    		cursor: pointer;
+
+	    		&:last-child {
+	    			border: none;
+	    		}
+	    	}
+	    }
+
+	    &:hover {
+	    	ul {
+	    		opacity: 1;
+	    		transform: scale(1, 1);
+	    	}
+	    }
+	}
+	.social-icons {
+		float: right;
+
+		a {
+			margin:0 2px;
+
+			i {
+				font-size: 20px;
+			    opacity: 0.7;
+			    transition: all .3s;
+			}
+			i:hover {
+				color: #fa5555;
+			}
+		}
+	}
+}

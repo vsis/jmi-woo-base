@@ -1,0 +1,1461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Digital\n"
+"POT-Creation-Date: 2016-03-08 23:04+0530\n"
+"PO-Revision-Date: 2016-03-08 23:13+0530\n"
+"Last-Translator: InsertCart.com <admin@insertcart.com>\n"
+"Language-Team: InsertCart.com <admin@insertcart.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8 archive.php:33 blog.php:16 contproduct.php:23 image.php:92
+#: includes/full-page.php:18 includes/full-single.php:27
+#: includes/left-page.php:19 includes/left-single.php:28
+#: includes/right-page.php:18 includes/right-single.php:27 index.php:22
+#: search.php:16
+msgid "404 Error&#58; Not Found"
+msgstr "Ошибка 404: Не найдено"
+
+#: 404.php:11
+msgid ""
+"Sorry, but the page you are trying to reach is unavailable or does not exist."
+msgstr ""
+"Извините, но страница, которую вы пытаетесь достичь недоступен или не "
+"существует."
+
+#: 404.php:12
+msgid "You may interested with this"
+msgstr "Вы можете заинтересованы с этим"
+
+#: archive.php:14
+msgid "Archive for"
+msgstr "Архив за"
+
+#: archive.php:27
+msgid "Blog Archives"
+msgstr "Архивы Блога"
+
+#: baztro.php:181
+msgid "Home"
+msgstr "Главная"
+
+#: baztro.php:197
+msgid "Archive by category \""
+msgstr ""
+
+#: baztro.php:240
+msgid "Search results for"
+msgstr "Результаты поиска"
+
+#: baztro.php:242
+msgid "Posts tagged "
+msgstr "Сообщения с тегами"
+
+#: baztro.php:246
+msgid "Articles posted by"
+msgstr "Статьи, размещенные"
+
+#: baztro.php:248
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: baztro.php:283
+msgid "Social Icons"
+msgstr "Социальные иконки"
+
+#: baztro.php:284
+msgid "Display Numbers of Popular posts with thumbnail by insertcart.com"
+msgstr "Показать Номера популярных постов с эскизом по insertcart.com"
+
+#: baztro.php:306
+msgid "Title"
+msgstr "заглавие"
+
+#: comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:31 comments.php:48
+msgid "Comment navigation"
+msgstr "Комментарий навигации"
+
+#: comments.php:32 comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:33 comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Новые Комментарии &rarr;"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: contproduct.php:12 image.php:67 includes/full-page.php:7
+#: includes/full-single.php:10 includes/left-page.php:8
+#: includes/left-single.php:11 includes/right-page.php:7
+#: includes/right-single.php:10
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: featured-home.php:13
+msgid "You Main Headline here"
+msgstr "Вы здесь Главная Заголовок"
+
+#: featured-home.php:16
+msgid ""
+"Set you description here from theme options > home page link to any page and "
+"upload image here. This is only for demonstration purpose you can set your "
+"own description here. "
+msgstr ""
+"Установить вам описание здесь из вариантов темы> Главная страница ссылку на "
+"любую страницу и загрузить изображение здесь. Это только для "
+"демонстрационных целей вы можете установить собственное описание здесь."
+
+#: featured-home.php:32 featured-home.php:34 featured-home.php:39
+#: featured-home.php:41 featured-home.php:48 featured-home.php:50
+msgid "Column Title here"
+msgstr "Колонка Название здесь"
+
+#: featured-home.php:33 featured-home.php:35 featured-home.php:40
+#: featured-home.php:42 featured-home.php:49 featured-home.php:51
+#: options.php:269 options.php:282 options.php:296 options.php:309
+#: options.php:323 options.php:337
+msgid ""
+"Put description or feature detail here from theme option > home page and "
+"customize fonts"
+msgstr ""
+"Поместите описание или деталь особенность здесь из темы опции> домашней "
+"страницы и пользовательских шрифтов"
+
+#: functions.php:83
+msgid "Navigation"
+msgstr "Основная навигация"
+
+#: functions.php:84
+msgid "Footer Menu"
+msgstr "меню нижнего колонтитула"
+
+#: functions.php:113
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: functions.php:118
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: functions.php:128
+msgid "Search for:"
+msgstr "Искать:"
+
+#: functions.php:129
+msgid "Search"
+msgstr "Поиск"
+
+#: functions.php:130
+msgid "Go"
+msgstr "Поиск"
+
+#: functions.php:171
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:180
+msgid "Bottom Menu 1"
+msgstr "Нижнее меню 1"
+
+#: functions.php:189
+msgid "Bottom Menu 2"
+msgstr "Нижнее меню 2"
+
+#: functions.php:198
+msgid "Bottom Menu 3"
+msgstr "Нижнее меню 3"
+
+#: functions.php:305
+msgid "Name"
+msgstr "имя"
+
+#: functions.php:307
+msgid "Email"
+msgstr "Эл. адрес"
+
+#: functions.php:309
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: header.php:40
+msgid "Menu"
+msgstr "Меню"
+
+#: image.php:11
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: image.php:22
+msgid "Edit"
+msgstr "редактировать"
+
+#: inc/includes/class-options-framework-admin.php:91
+#: inc/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr "Тема Варианты"
+
+#: inc/includes/class-options-framework-admin.php:203
+msgid "Save Options"
+msgstr "параметры сохранения"
+
+#: inc/includes/class-options-framework-admin.php:204
+msgid "Restore Defaults"
+msgstr "Восстановить значения по умолчанию"
+
+#: inc/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Нажмите кнопку OK для сброса. Любые настройки темы будут потеряны!"
+
+#: inc/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr "Параметры по умолчанию восстановлены."
+
+#: inc/includes/class-options-framework-admin.php:289
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: inc/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+#: inc/includes/class-options-media-uploader.php:65
+#: inc/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr "Загрузить"
+
+#: inc/includes/class-options-media-uploader.php:67
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Обновите версию WordPress для полной поддержки со стороны СМИ."
+
+#: inc/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Посмотреть файл"
+
+#: inc/includes/class-options-sanitization.php:314
+msgid "No Repeat"
+msgstr "Нет Повторите"
+
+#: inc/includes/class-options-sanitization.php:315
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:316
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:317
+msgid "Repeat All"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:329
+msgid "Top Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:330
+msgid "Top Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:331
+msgid "Top Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:332
+msgid "Middle Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:333
+msgid "Middle Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:334
+msgid "Middle Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:335
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:336
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:337
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:349
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:350
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:423
+msgid "Normal"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:424
+msgid "Italic"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:425
+msgid "Bold"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:426
+msgid "Bold Italic"
+msgstr ""
+
+#: includes/author.php:6
+msgid "Article By :"
+msgstr "Статья:"
+
+#: includes/core/core.php:18 includes/core/core.php:19
+msgid "MORE Themes"
+msgstr "Другие темы"
+
+#: includes/core/core.php:20
+msgid "administrator"
+msgstr ""
+
+#: includes/core/core.php:21
+msgid "esell-themes"
+msgstr ""
+
+#: includes/core/core.php:22
+msgid "esell_display_core"
+msgstr ""
+
+#: includes/core/core.php:47
+msgid "You Should Try Our Other Themes Also"
+msgstr ""
+
+#: includes/core/core.php:82
+msgid ": Current"
+msgstr ""
+
+#: includes/core/core.php:83
+msgid "Customize"
+msgstr ""
+
+#: includes/core/core.php:132
+msgid "Activate"
+msgstr ""
+
+#: includes/core/core.php:143
+msgid "Install Now"
+msgstr ""
+
+#: includes/core/core.php:147
+msgid "Live Preview"
+msgstr ""
+
+#: includes/postmeta.php:3
+msgid "No Comment"
+msgstr "Без комментариев"
+
+#: includes/postmeta.php:3
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: includes/postmeta.php:3
+msgid "% Comments"
+msgstr "% Комментарии"
+
+#: includes/widget-latest.php:11
+msgid "esell Latest Post Widget"
+msgstr ""
+
+#: includes/widget-latest.php:14
+msgid "Show the Latest Post on Website Based on Date Published"
+msgstr "Показать последнее сообщение на сайт на основе Дата опубликования"
+
+#: includes/widget-latest.php:53
+msgid "Latest Post"
+msgstr "Последний пост"
+
+#: includes/widget-latest.php:58 includes/widget-popular.php:59
+#: includes/widget-social.php:42
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: includes/widget-popular.php:11
+msgid "esell popular Post Widget"
+msgstr "esell популярный виджет Сообщение"
+
+#: includes/widget-popular.php:14
+msgid "Show the popular Post on Website Based on Date Published"
+msgstr "Показать популярный сообщение на сайт на основе Дата опубликования"
+
+#: includes/widget-popular.php:54
+msgid "Popular Post"
+msgstr "популярные сообщения"
+
+#: includes/widget-social.php:11
+msgid "esell Social Widget"
+msgstr ""
+
+#: includes/widget-social.php:14
+msgid "Show the social Post on Website Based on Date Published"
+msgstr ""
+
+#: includes/widget-social.php:37
+msgid "Social Profile"
+msgstr "Социальный профиль"
+
+#: options.php:25
+msgid "4"
+msgstr ""
+
+#: options.php:26
+msgid "8"
+msgstr ""
+
+#: options.php:27
+msgid "12"
+msgstr ""
+
+#: options.php:28
+msgid "16"
+msgstr ""
+
+#: options.php:29
+msgid "20"
+msgstr ""
+
+#: options.php:34
+msgid "French Toast"
+msgstr ""
+
+#: options.php:35
+msgid "Pancake"
+msgstr ""
+
+#: options.php:36
+msgid "Omelette"
+msgstr ""
+
+#: options.php:37
+msgid "Crepe"
+msgstr ""
+
+#: options.php:38
+msgid "Waffle"
+msgstr ""
+
+#: options.php:122
+msgid "Basic Settings"
+msgstr "Базовые настройки"
+
+#: options.php:128
+msgid "Custom Favicon URL"
+msgstr "URL пользовательских Favicon"
+
+#: options.php:129
+msgid "Enter Favicon Image here ."
+msgstr "Введите FavIcon изображение здесь."
+
+#: options.php:134
+msgid "Upload Site Logo"
+msgstr "Загрузить Логотип сайта"
+
+#: options.php:135
+msgid ""
+"Upload Website Logo here. Note you can upload any size it will automatic "
+"resize ."
+msgstr ""
+
+#: options.php:142
+msgid "Show Author Profile"
+msgstr "Показать Автор профиля"
+
+#: options.php:143
+msgid "Check the box to show Author Profile Below the Post and Pages."
+msgstr ""
+"Установите флажок, чтобы показать Author Профиль под сообщением и Pages."
+
+#: options.php:149
+msgid "Show Latest Posts in Sidebar"
+msgstr "Новые сообщения в боковой панели"
+
+#: options.php:150
+msgid "Show 5 Latest Posts with Thumbnail in Sidebar."
+msgstr ""
+
+#: options.php:150 options.php:162
+msgid "Set From Widgets"
+msgstr "Набор виджетов форм"
+
+#: options.php:155
+msgid "<b>For Latest Posts</b>"
+msgstr ""
+
+#: options.php:161
+msgid "Popular Posts in Sidebar"
+msgstr "Популярные сообщения в боковой панели"
+
+#: options.php:162
+msgid "Display Popular Post Sidebar Widget."
+msgstr ""
+
+#: options.php:167
+msgid "<b>For Popular post</b>"
+msgstr ""
+
+#: options.php:174
+msgid "QR Code Generator"
+msgstr ""
+
+#: options.php:175
+msgid "Show or hide QR Code use shortcode \"[esell-qr]\" in posts or pages"
+msgstr ""
+
+#: options.php:186
+msgid "Scan QR Code on mobile"
+msgstr ""
+
+#: options.php:189
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: options.php:193
+msgid "Show blog posts on front page"
+msgstr "Показать сообщения пользователя на первой странице"
+
+#: options.php:194
+msgid "Check the box to show 5 posts on front page."
+msgstr "Установите флажок, чтобы показать 5 сообщений на первой странице."
+
+#: options.php:203
+msgid "Top Info Area"
+msgstr ""
+
+#: options.php:204
+msgid "Check the box to show Site-wide info on Top of header."
+msgstr ""
+
+#: options.php:213
+msgid "Put description here."
+msgstr ""
+
+#: options.php:219
+msgid "Configure Main Featured Are with Image"
+msgstr ""
+
+#: options.php:220
+msgid "Show or hide main featured area from front page."
+msgstr ""
+
+#: options.php:222
+msgid "on"
+msgstr ""
+
+#: options.php:230
+msgid "Enter Title"
+msgstr ""
+
+#: options.php:235
+msgid "Enter Link"
+msgstr ""
+
+#: options.php:243 options.php:267 options.php:280 options.php:294
+#: options.php:307 options.php:321 options.php:335
+msgid "Put description about image or product here."
+msgstr ""
+
+#: options.php:245
+msgid ""
+"Set you description here from theme options > home page link to any page and "
+"upload image also here. This is only for demonstration purpose. "
+msgstr ""
+
+#: options.php:248
+msgid "Enable Bottom 3 Boxes"
+msgstr ""
+
+#: options.php:249
+msgid "Show or hide main bottom 3 boxes on front page."
+msgstr ""
+
+#: options.php:258
+msgid "Bottom Column 1 Configure "
+msgstr ""
+
+#: options.php:259
+msgid "Column 1 Heading 1"
+msgstr ""
+
+#: options.php:261
+msgid "Column Title 1"
+msgstr ""
+
+#: options.php:272
+msgid "Column 1 Heading 2"
+msgstr ""
+
+#: options.php:274
+msgid "Column Title 2"
+msgstr ""
+
+#: options.php:285
+msgid "Bottom Column 2 Configure "
+msgstr ""
+
+#: options.php:286
+msgid "Column 2 Heading 1"
+msgstr ""
+
+#: options.php:288
+msgid "Column title 3"
+msgstr ""
+
+#: options.php:299
+msgid "Column 2 Heading 2"
+msgstr ""
+
+#: options.php:301
+msgid "Column title 4"
+msgstr ""
+
+#: options.php:312
+msgid "Bottom Column 3 Configure "
+msgstr ""
+
+#: options.php:313
+msgid "Column 3 Heading"
+msgstr ""
+
+#: options.php:315
+msgid "Column Title 5"
+msgstr ""
+
+#: options.php:326
+msgid "Column 3 Heading 2"
+msgstr ""
+
+#: options.php:328
+msgid "Column Title 6"
+msgstr ""
+
+#: options.php:342
+msgid "<span class=\"pre-titlehome\">Color Customize</span>"
+msgstr ""
+
+#: options.php:345
+msgid "Numbers of Featured Woocommerce Products"
+msgstr ""
+
+#: options.php:346
+msgid ""
+"Select how many product (Featured products)you want to display on front page "
+"Default: 8"
+msgstr ""
+
+#: options.php:353
+msgid "Image Flip for Product"
+msgstr ""
+
+#: options.php:354
+msgid "Allow Image flip on product page if second image is available "
+msgstr ""
+
+#: options.php:363
+msgid "Info and Demo Button text"
+msgstr ""
+
+#: options.php:364
+msgid "Change Info and Demo Button text from woocommerce product"
+msgstr ""
+
+#: options.php:366
+msgid "Detail"
+msgstr "деталь"
+
+#: options.php:370
+msgid "Top Account navigation Color"
+msgstr ""
+
+#: options.php:371
+msgid "My Account Background Color."
+msgstr ""
+
+#: options.php:376
+msgid "Cart Item Background Color."
+msgstr ""
+
+#: options.php:381
+msgid "Product Box Fonts and Buttons"
+msgstr ""
+
+#: options.php:382
+msgid "Change Fonts Color and size Product Box."
+msgstr ""
+
+#: options.php:387
+msgid "\"Add to Cart\" Button color "
+msgstr ""
+
+#: options.php:392
+msgid "\"Detail\" Button color "
+msgstr ""
+
+#: options.php:397
+msgid "Buttons Hover color (mouse over) "
+msgstr ""
+
+#: options.php:403
+msgid "Main features Product area"
+msgstr ""
+
+#: options.php:404
+msgid "Main features product background color Change."
+msgstr ""
+
+#: options.php:409
+msgid "Change Background color of 3 bottom info area."
+msgstr ""
+
+#: options.php:413 options.php:659
+msgid "Customize Theme Fonts"
+msgstr ""
+
+#: options.php:414
+msgid "Change Fonts Color and size of 3 info boxes."
+msgstr ""
+
+#: options.php:419
+msgid "Change description color and size of 3 boxes"
+msgstr ""
+
+#: options.php:426
+msgid "Social Media"
+msgstr "Социальные медиа"
+
+#: options.php:429
+msgid "Show share buttons on Top Navigation"
+msgstr "Показать доля кнопок на верхней панели навигации"
+
+#: options.php:430
+msgid "Check or uncheck Box to show and hide share buttons"
+msgstr "Установите или снимите флажок, чтобы показать и скрыть кнопки на акции"
+
+#: options.php:435
+msgid "Facebook Link"
+msgstr ""
+
+#: options.php:436
+msgid "Enter your Facebook URL if you have one."
+msgstr "Введите свой адрес Facebook, если у вас есть."
+
+#: options.php:441
+msgid "Twitter Follow Link"
+msgstr ""
+
+#: options.php:442
+msgid "Enter your Twitter URL if you have one."
+msgstr "Введите свой адрес Twitter, если у вас есть."
+
+#: options.php:447
+msgid "YouTube Channel Link"
+msgstr ""
+
+#: options.php:448
+msgid "Enter your YouTube URL if you have one."
+msgstr "Введите свой адрес Youtube, если у вас есть."
+
+#: options.php:453
+msgid "Google+ URL"
+msgstr ""
+
+#: options.php:454
+msgid "Enter your Google+ Link if you have one."
+msgstr "Введите свой адрес Google+, если у вас есть."
+
+#: options.php:459
+msgid "RSS Feed URL"
+msgstr ""
+
+#: options.php:460
+msgid "Enter your RSS Feed URL if you have one"
+msgstr "Введите свой адрес RSS Feed, если у вас есть."
+
+#: options.php:465
+msgid "Linked In URL"
+msgstr ""
+
+#: options.php:466
+msgid "Enter your Linkedin URL if you have one."
+msgstr "Введите свой адрес LinkedIn, если у вас есть."
+
+#: options.php:471
+msgid "Pinterest In URL"
+msgstr ""
+
+#: options.php:472
+msgid "Enter your Pinterest URL if you have one."
+msgstr "Введите свой адрес Pinterest, если у вас есть."
+
+#: options.php:477
+msgid "Email Address to Contact"
+msgstr ""
+
+#: options.php:478
+msgid "Enter your email address if you have one"
+msgstr ""
+
+#: options.php:483
+msgid "Stumbleupon In URL"
+msgstr ""
+
+#: options.php:484
+msgid "Enter your Stumbleupon  address if you have one"
+msgstr ""
+
+#: options.php:493
+msgid "Custom Styling"
+msgstr "Пользовательские Стайлинг"
+
+#: options.php:496
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: options.php:497
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Быстро добавить некоторые CSS к вашей теме, добавив его к этому блоку."
+
+#: options.php:503
+msgid "Ads Management"
+msgstr "Управление Объявления"
+
+#: options.php:506
+msgid ""
+"Paste Ads code below navigation. USE TEXT FOR CODE AND VISUAL FOR PLAN TEXT"
+msgstr ""
+
+#: options.php:507
+msgid "Activate Ads Space Below Navigation and put code in below test field."
+msgstr ""
+
+#: options.php:512
+msgid "AD Code For Single Post"
+msgstr "AD Код для одноместного сообщение"
+
+#: options.php:513 options.php:793
+msgid ""
+"Paste Ad code for single post it show ads below post title and before "
+"content."
+msgstr ""
+"Вставить код объявления для одного поста это показать объявления ниже "
+"заголовок поста и перед содержимым."
+
+#: options.php:518
+msgid "AD Code For Footer"
+msgstr "AD Код Для колонтитула"
+
+#: options.php:519
+msgid "Paste Ad Code for Footer Area."
+msgstr "Вставить объявление Код для колонтитула зоны."
+
+#: options.php:525
+msgid "Advance Options"
+msgstr "Расширенные опции"
+
+#: options.php:530
+msgid "<span class=\"pre-title\">New Features</span>"
+msgstr ""
+
+#: options.php:535
+msgid "Floating Share Buttons"
+msgstr ""
+
+#: options.php:536
+msgid "Display Floating Share widget with count."
+msgstr ""
+
+#: options.php:542
+msgid "Responsive Website Design"
+msgstr "Адаптивный дизайн сайта"
+
+#: options.php:543
+msgid ""
+"Enable Responsive Design for you website to increase experience on Mobile "
+"Devices"
+msgstr ""
+
+#: options.php:549
+msgid "Excerpt Length (Number of words display in post description)"
+msgstr "Отрывок Длина (количество слов в описании отображения пост)"
+
+#: options.php:550
+msgid "Number of words display in every post description Default is 45."
+msgstr ""
+"Количество слов отображения в каждом описании пост по умолчанию является 45."
+
+#: options.php:556
+msgid "Change Background"
+msgstr ""
+
+#: options.php:557
+msgid "Change the background CSS Color or Image."
+msgstr ""
+
+#: options.php:562
+msgid "Change Default Thumb Image"
+msgstr "Изменить По умолчанию Thumb изображение"
+
+#: options.php:563
+msgid "Change default thumb Image in Latest and Popular post 45 x 45 px."
+msgstr ""
+
+#: options.php:568
+msgid "Change background color of content area."
+msgstr ""
+
+#: options.php:573
+msgid "Change Link Color"
+msgstr ""
+
+#: options.php:574
+msgid "Select Links Color."
+msgstr ""
+
+#: options.php:580
+msgid "Change Link Hover Color."
+msgstr ""
+
+#: options.php:585
+msgid "Top Navigation Colors"
+msgstr ""
+
+#: options.php:586
+msgid "Main Navigation Background."
+msgstr ""
+
+#: options.php:591
+msgid "Main Navigation hover Color."
+msgstr ""
+
+#: options.php:596
+msgid "Home Icon from Top and Main Navigation"
+msgstr "Главная Икона из верхней и Главной навигации"
+
+#: options.php:597
+msgid "Show or Hide Home Icon."
+msgstr "Показать или скрыть Home Icon."
+
+#: options.php:606
+msgid "Other button color change"
+msgstr ""
+
+#: options.php:607
+msgid "Button Background for \"Post Comment\" ,Search \"Go\""
+msgstr ""
+
+#: options.php:612
+msgid "Page Number Navigation Color Change "
+msgstr ""
+
+#: options.php:613
+msgid "Change Current Page Background."
+msgstr ""
+
+#: options.php:618
+msgid "Change background color of other pages."
+msgstr ""
+
+#: options.php:623
+msgid "Numbers text Color Change."
+msgstr ""
+
+#: options.php:628
+msgid "Sidebar Color Customize "
+msgstr ""
+
+#: options.php:629
+msgid "Widget title background."
+msgstr ""
+
+#: options.php:634
+msgid "Widget title text color."
+msgstr ""
+
+#: options.php:639
+msgid "Footer Area Color Customize "
+msgstr ""
+
+#: options.php:640
+msgid "Widget Area Background."
+msgstr ""
+
+#: options.php:645
+msgid "Widget title font color."
+msgstr ""
+
+#: options.php:650
+msgid "Widget area links color."
+msgstr ""
+
+#: options.php:655
+msgid "footer copyright background."
+msgstr ""
+
+#: options.php:660
+msgid "Change <b>Body (Theme) Font</b> color and Size."
+msgstr ""
+
+#: options.php:665
+msgid "Change <b>H1 Posts and Pages Title </b>Font color or Size."
+msgstr ""
+
+#: options.php:670
+msgid "Footer Widget Area Settings"
+msgstr "Настройки нижнего колонтитула область виджета"
+
+#: options.php:671
+msgid "Show or Hide Footer Widget Area."
+msgstr "Показать или скрыть колонтитула область виджета."
+
+#: options.php:681
+msgid "Edit \"Read More\" Button"
+msgstr "Edit \"Подробнее\" Button"
+
+#: options.php:682
+msgid "Show or Hide \"Continue reading\" or read more Button  Button ."
+msgstr "Показать или скрыть \"Продолжить чтение\" или читать далее Кнопка."
+
+#: options.php:691
+msgid "Read More Button Color Change."
+msgstr ""
+
+#: options.php:696
+msgid "Paste You Custom text for Read More <b>Default: Read More &raquo; </b>."
+msgstr ""
+
+#: options.php:698
+msgid "Read More &raquo;"
+msgstr ""
+
+#: options.php:702
+msgid "Website layout"
+msgstr ""
+
+#: options.php:703
+msgid "Select Images for Website layout."
+msgstr ""
+
+#: options.php:713
+msgid "<span class=\"pre-titleseo\">SEO & Meta Options</span>"
+msgstr ""
+
+#: options.php:716
+msgid "Google+ Publisher URL"
+msgstr ""
+
+#: options.php:717
+msgid ""
+"Paste Your Google Publisher URL https://plus.google.com/YOUR-GOOGLE+ID/posts."
+msgstr ""
+
+#: options.php:722
+msgid "Bing Site Verification"
+msgstr ""
+
+#: options.php:723
+msgid "Enter the ID only. It will be verified by Yahoo as well."
+msgstr ""
+
+#: options.php:728
+msgid "Google Site verification"
+msgstr ""
+
+#: options.php:729
+msgid "Enter your ID only."
+msgstr ""
+
+#: options.php:734
+msgid "Footer Script Area"
+msgstr ""
+
+#: options.php:735
+msgid "Enter Code for footer like google analytic."
+msgstr ""
+
+#: options.php:742
+msgid "<span class=\"pre-titlecus\">Customization</span>"
+msgstr ""
+
+#: options.php:745
+msgid "Breadcrumbs Options"
+msgstr ""
+
+#: options.php:746
+msgid "Check Box to Enable or Disable Breadcrumbs."
+msgstr ""
+
+#: options.php:751
+msgid "Enable Post Meta Info."
+msgstr ""
+
+#: options.php:752
+msgid "Check Box to Show or Hide Tags "
+msgstr ""
+
+#: options.php:757
+msgid "Check Box to Show or Hide Comments "
+msgstr ""
+
+#: options.php:762
+msgid "Check Box to Show or Hide Categories "
+msgstr ""
+
+#: options.php:767
+msgid "Check Box to Show or Hide Author and date "
+msgstr ""
+
+#: options.php:773
+msgid "Next and Previous Post Link"
+msgstr "Следующий и Предыдущий пост Ссылка"
+
+#: options.php:774
+msgid "Show or Hide Next and Previous Post Link below every post."
+msgstr ""
+
+#: options.php:783
+msgid "Show or Hide Copy Right Text"
+msgstr ""
+
+#: options.php:784
+msgid "Show or Hide Copyright Text and Link."
+msgstr "Показать или скрыть Copyright Текст и ссылку."
+
+#: options.php:799
+msgid "Theme Support"
+msgstr ""
+
+#: options.php:804
+msgid "Need support about theme go to Support forum"
+msgstr ""
+
+#: options.php:806
+msgid ""
+"If you have any problem in using options then please read theme "
+"documentation first "
+msgstr ""
+
+#: options.php:806
+msgid "http://www.insertcart.com/esell-wordpress-theme-documentation/"
+msgstr ""
+
+#: options.php:806
+msgid "Theme Documentation"
+msgstr "тема Документация"
+
+#: options.php:806
+msgid ""
+"Before you contact us via directly please use support forum also We "
+"recommend you to use some WordPress plugin like \"Regenerate Thumbnails\" "
+"WordPress SEO and W3tc to esell and get great website experience."
+msgstr ""
+
+#: options.php:807
+msgid "http://support.insertcart.com"
+msgstr ""
+
+#: options.php:807
+msgid "Support"
+msgstr "Поддержка"
+
+#: wooacc.php:4
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: wooacc.php:7
+msgid "Login / Register"
+msgstr "Войти / Регистрация"
+
+#: wooacc.php:10
+msgid "View your shopping cart"
+msgstr ""
+
+#: wooacc.php:10
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. Theme Name of the plugin/theme
+msgid "eSell"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.insertcart.com/esell"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"eSell Theme is WordPress eCommerce style theme specially design and "
+"customize for WooCommerce plugin which comes with full features as well as "
+"Responsive & SEO Optimize theme easily adapts on your mobile and desktop or "
+"any other device. Theme with lots of customization and connect social media "
+"Adsense ready It supports all the awesome WordPress features"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "InsertCart.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.insertcart.com"
+msgstr ""
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Что-то пошло не так с плагином API."
+
+#~ msgid "Show Details"
+#~ msgstr "Показать детали"
+
+#~ msgid "Hide Details"
+#~ msgstr "Скрыть детали"
+
+#~ msgid "Primary Top"
+#~ msgstr "Первичный Топ"
+
+#~ msgid "Sidebar Right"
+#~ msgstr "Боковая панель справа"
+
+#~ msgid "Page"
+#~ msgstr "страница"
+
+#~ msgid "Digital Theme Options"
+#~ msgstr "Варианты Тема Digital"
+
+#~ msgid "Digital Options"
+#~ msgstr "Digital Опции"
+
+#~ msgid "About"
+#~ msgstr "Около"
+
+#~ msgid "Upgrade to Pro"
+#~ msgstr "Обновление до Pro"
+
+#~ msgid "Popular post"
+#~ msgstr "популярные пост"
+
+#~ msgid "Upload Favicon Image in .ico format ."
+#~ msgstr "Загрузить FavIcon изображение в формате .ico."
+
+#~ msgid ""
+#~ "Upload Website Logo that fit here. Note you can upload any size it will "
+#~ "automatic resize ."
+#~ msgstr ""
+#~ "Загрузить логотип сайта, который подходит здесь. Обратите внимание, вы "
+#~ "можете загрузить любой размер его будет автоматическое изменение размера."
+
+#~ msgid "Show Posts from particular categories in Home Page 1"
+#~ msgstr "Просмотр сообщений от определенных категорий на домашней странице 1"
+
+#~ msgid "Enable/Disable"
+#~ msgstr "Включить выключить"
+
+#~ msgid "Change Text of Latest Post."
+#~ msgstr "Изменение Текст Последнее сообщение."
+
+#~ msgid "Select a Category"
+#~ msgstr "Выберите категорию"
+
+#~ msgid "Numbers of Posts to Show"
+#~ msgstr "Число сообщений Показать"
+
+#~ msgid "Change Strip line background Color change"
+#~ msgstr "линии фона Изменение цвета Изменение полосы"
+
+#~ msgid "Show Posts from particular categories in Home Page 2"
+#~ msgstr "Просмотр сообщений от конкретных категорий Главная 2"
+
+#~ msgid "Enable/disable"
+#~ msgstr "Включить выключить"
+
+#~ msgid "Categories and Breadcrumb Strip line background Color change"
+#~ msgstr "Категории и линии Изменение цвета фона Иерархическая Газа"
+
+#~ msgid "Change default thumb Image in Website."
+#~ msgstr "Изменение по умолчанию изображение большого пальца в веб-сайт."
+
+#~ msgid ""
+#~ "Paste You Custom text for Continue reading <b>Default: Read More &raquo; "
+#~ "</b>."
+#~ msgstr ""
+#~ "Вставить You произвольный текст для чтения <b> По умолчанию Продолжение: "
+#~ "Read More &raquo; </b>."
+
+#~ msgid "Enter your skype URL if you have one"
+#~ msgstr "Введите свой адрес Skype, если у вас есть."
+
+#~ msgid "Enter your vimeo URL if you have one"
+#~ msgstr "Введите свой адрес Vimeo, если у вас есть."
+
+#~ msgid "Enter your flickr URL if you have one"
+#~ msgstr "Введите свой адрес Flickr, если у вас есть."
+
+#~ msgid "Enter your dribbble URL if you have one"
+#~ msgstr "Введите свой адрес Dribbble, если у вас есть."
+
+#~ msgid "Slider Settings"
+#~ msgstr "Настройки слайдера"
+
+#~ msgid "Enable Slider"
+#~ msgstr "Включить ползунок"
+
+#~ msgid "Check this to Enable Slider."
+#~ msgstr "Проверьте это включить ползунок."
+
+#~ msgid "Slider Color Customize"
+#~ msgstr "Слайдер Цвет Настроить"
+
+#~ msgid "Slider Caption background Color Change."
+#~ msgstr "слайдер Подпись фона Изменение цвета."
+
+#~ msgid "Change caption Font color or Size."
+#~ msgstr "Изменение шрифта титров цвет или размер."
+
+#~ msgid "Slider Image 1"
+#~ msgstr "слайдер изображения 1"
+
+#~ msgid "Slider Image 2"
+#~ msgstr "слайдер изображения 2"
+
+#~ msgid "Slider Image 3"
+#~ msgstr "слайдер изображения 3"
+
+#~ msgid "Slider Image 4"
+#~ msgstr "слайдер изображения 4"
+
+#~ msgid "Slide 4"
+#~ msgstr "Слайд 4"
+
+#~ msgid "Slider Image 5"
+#~ msgstr "слайдер изображения 5"
+
+#~ msgid "Slide 5"
+#~ msgstr "Слайд 5"
+
+#~ msgid "Slider Image 6"
+#~ msgstr "слайдер изображения 6"
+
+#~ msgid "Slide 6"
+#~ msgstr "Слайд 6"
+
+#~ msgid "Slider Image 7"
+#~ msgstr "слайдер изображения 7"
+
+#~ msgid "Slide 7"
+#~ msgstr "Слайд 7"
+
+#~ msgid "Slider Image 8"
+#~ msgstr "слайдер изображения 8"
+
+#~ msgid "Slide 8"
+#~ msgstr "Слайд 8"
+
+#~ msgid ""
+#~ "If you want to add or edit more code and place widget then you need to "
+#~ "edit from Widget area."
+#~ msgstr ""
+#~ "Если вы хотите изменить или добавить больше кода и поместить виджет, то "
+#~ "вам нужно отредактировать виджет области."
+
+#~ msgid "Dashboard > Appearance > Widget > add widget wherever you want."
+#~ msgstr ""
+#~ "Панель управления> Внешний вид> Виджет> добавить виджет туда, куда вы "
+#~ "хотите."
+
+#~ msgid ""
+#~ "<b>ADS MANAGEMENT SETTINGS HAS BEEN MOVED TO WIDET WITH MORE FUNCTION.</"
+#~ "b> "
+#~ msgstr ""
+#~ "<b> ПАРАМЕТРЫ ADS УПРАВЛЕНИЕ была перемещена широки в более широкий набор "
+#~ "функций. </ b>"
+
+#~ msgid "Paste Ads code for header."
+#~ msgstr "Вставить объявления код для заголовка."
+
+#~ msgid "Enter your ads code here, preferably units Ex. 728*90 lead-board ad."
+#~ msgstr ""
+#~ "Введите свой код здесь объявления, предпочтительно единицы Ex. 728x90 "
+#~ "свинец доска объявлений."
+
+#~ msgid "Social Share Buttons with count"
+#~ msgstr "Социальные закладки Кнопки с графом"
+
+#~ msgid "Display social share buttons with count below post title."
+#~ msgstr "Отображение кнопок социальных акций отсчетом ниже заголовок поста."
+
+#~ msgid "Show Popular Posts in Sidebar"
+#~ msgstr "Показать популярные сообщения в боковой панели"
+
+#~ msgid "Check the box to Show Popular Posts with Thumbnail in Sidebar."
+#~ msgstr ""
+#~ "Установите флажок Показать Популярные сообщения с эскизом в режиме "
+#~ "боковой панели"
+
+#~ msgid "Numbers of Popular posts to display"
+#~ msgstr "Номера популярных постов для отображения"
+
+#~ msgid "Enable Responsive Design to increase experience on Mobile Devices"
+#~ msgstr ""
+#~ "Включить адаптивный дизайн для повышения опыта на мобильных устройствах"
+
+#~ msgid "Show"
+#~ msgstr "Показать"
+
+#~ msgid "Hide"
+#~ msgstr "Спрятать"
+
+#~ msgid "Post Hover digital"
+#~ msgstr "Сообщение Hover цифровой"
+
+#~ msgid "Top Menu Colors Customize"
+#~ msgstr "Лучшие Цвета меню Настройка"
